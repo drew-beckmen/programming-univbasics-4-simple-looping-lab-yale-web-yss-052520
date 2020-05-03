@@ -28,4 +28,5 @@ def return_string_array(arr)
   while counter < arr.length do 
     arr[counter] = arr[counter].to_s 
   end 
+  arr 
 end 
